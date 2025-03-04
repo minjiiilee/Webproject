@@ -1,8 +1,4 @@
-![image.png](attachment:f980a91e-b2c6-4dfd-8744-d4137cb9ccd3:image.png)
-
-![image.png](attachment:30a81f3b-0bed-42e0-b6d5-f75a9d1f6e82:image.png)
-
-![image.png](attachment:921a7cb3-a8fd-409f-bae3-2d802b3076cb:image.png)
+![image](https://github.com/user-attachments/assets/a986954a-4aa0-4d7c-a674-3775baa7220d)
 
 **요약**
 
@@ -63,14 +59,4 @@
 
 ![image.png](attachment:67606ebc-0527-47c4-b1ab-27db3bc08092:image.png)
 
-[◀ 이전 페이지 돌아가기](https://www.notion.so/LEE-MINJI-16f776dd60d880398893d7b2b595fa8b?pvs=21)
 
-- ◀ 이전 페이지 돌아가기 버튼 만드는 법
-    
-    ① 이전 페이지 Projects 블럭의 :: 을 눌러 링크를 복사해주세요.
-    
-    ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/3557bb39-d81e-48d6-8cf8-8551a1f73cad/21550824-6b3a-47bb-93e3-452950b922ef/Untitled.png)
-    
-    ② [이전 페이지 돌아가기] 텍스트에 복사한 링크를 넣어주세요.  
-    
-    ![](https://prod-files-secure.s3.us-west-2.amazonaws.com/3557bb39-d81e-48d6-8cf8-8551a1f73cad/85498a31-bc2c-4cda-aafb-386f95efdeb7/Untitled.png)
